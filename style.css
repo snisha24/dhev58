@@ -1,0 +1,57 @@
+body {
+
+    background: linear-gradient(#00fffb 0%, #73ff00 100%);
+    background-repeat: no repeat;
+    text-align: center;
+}
+
+img {
+    border-radius: 100px;
+    width: 200px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px
+}
+
+h1 {
+    text-shadow: 2px 2px #3c00ff;
+}
+
+#Introduction {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    z-index: 9px;
+}
+
+#bio {
+    background-color: white;
+    padding: 30px;
+    font-size: 18;
+}
+
+.link:hover {
+    background-color: pink;
+}
+
+.gr {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10px;
+    position: absolute;
+}
+
+#hol {
+    font-family: 'courgette', cursive;
+}
+
+.link {float:left;
+right:30px;
+padding-right: 10px;
+padding-left: 10px;}}
